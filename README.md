@@ -23,9 +23,9 @@ The **Color Categorizer** plugin for QGIS allows users to apply categorized colo
 
     ```json
     {
-        "category1": "#ff0000",
-        "category2": "#00ff00",
-        "category3": "#0000ff"
+        "Health Center": "#ff0000",
+        "Daycare Center": "#00ff00",
+        "subtype": "#0000ff"
     }
     ```
 
