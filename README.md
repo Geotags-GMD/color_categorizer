@@ -36,9 +36,6 @@ The **Color Categorizer** plugin for QGIS allows users to apply categorized colo
 3. Select **Install from ZIP** and browse to the plugin's ZIP file.
 4. Click **Install Plugin**.
 
-{% file src=".gitbook/assets/color_categorizer_v1.zip" %}
-Version 1.28
-{% endfile %}
 
 
 
