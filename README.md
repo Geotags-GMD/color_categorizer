@@ -1,6 +1,6 @@
 # Color Categorizer Plugin
 
-**Version**: 1.0\
+**Version**: 1.28\
 **Author**: Philippine Statistics Authority\
 **License**: MIT
 
@@ -36,7 +36,9 @@ The **Color Categorizer** plugin for QGIS allows users to apply categorized colo
 3. Select **Install from ZIP** and browse to the plugin's ZIP file.
 4. Click **Install Plugin**.
 
-{% file src=".gitbook/assets/color_categorizer.zip" %}
+{% file src=".gitbook/assets/color_categorizer_v1.zip" %}
+Version 1.28
+{% endfile %}
 
 
 
