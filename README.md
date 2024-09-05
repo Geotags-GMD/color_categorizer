@@ -29,7 +29,7 @@ The **Color Categorizer** plugin for QGIS allows users to apply categorized colo
     }
     ```
 
-## Plugin
+## Installation
 
 1. Open QGIS.
 2. Go to **Plugins > Manage and Install Plugins**.
