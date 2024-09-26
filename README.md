@@ -1,6 +1,6 @@
 # Color Categorizer Plugin
 
-**Version**: 1.28\
+**Version**: 1.32\
 **Author**: Philippine Statistics Authority\
 **License**: MIT
 
